@@ -12,7 +12,7 @@
   "androidUrl": "",
   "iosUrl": "",
   "kr": {
-    "title": "이용안내.-디버그",
+    "title": "이용안내.-디버그NO",
     "message": "이용안내.",
     "buttons": [
       { "text": "더이상 보지 않기", "action": "hide_forever", "isPrimary": false },
