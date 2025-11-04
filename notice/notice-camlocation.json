@@ -1,0 +1,104 @@
+{
+  "hasMessage": {
+    "android": true,
+    "ios": false
+  },
+   "targetVersion": {
+    "android": "",
+    "ios": ""
+  },
+  "isBlocking": false,
+  "imageUrl": "",
+  "androidUrl": "",
+  "iosUrl": "",
+  "kr": {
+    "title": "이용안내2-디버그",
+    "message": "공공 데이터 API 서비스가 복구 중입니다.\n* 날씨예보 기능 이용이 원활하지 않습니다",
+    "buttons": [
+      { "text": "더이상 보지 않기", "action": "hide_forever", "isPrimary": false },
+      { "text": "오늘 그만 보기", "action": "hide_today", "isPrimary": false },
+      { "text": "확인", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "en": {
+    "title": "Service Notice",
+    "message": "Public data API service is being restored.\n* Weather forecast feature may not work properly",
+    "buttons": [
+      { "text": "Don't show again", "action": "hide_forever", "isPrimary": false },
+      { "text": "Don't show today", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "jp": {
+    "title": "ご利用案内",
+    "message": "公共データAPIサービスを復旧中です。\n* 天気予報機能がスムーズに動作しない場合があります",
+    "buttons": [
+      { "text": "今後表示しない", "action": "hide_forever", "isPrimary": false },
+      { "text": "今日は表示しない", "action": "hide_today", "isPrimary": false },
+      { "text": "確認", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "tw": {
+    "title": "使用須知",
+    "message": "公共數據API服務正在恢復中。\n* 天氣預報功能可能無法正常使用",
+    "buttons": [
+      { "text": "不再顯示", "action": "hide_forever", "isPrimary": false },
+      { "text": "今天不顯示", "action": "hide_today", "isPrimary": false },
+      { "text": "確認", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "cn": {
+    "title": "使用须知",
+    "message": "公共数据API服务正在恢复中。\n* 天气预报功能可能无法正常使用",
+    "buttons": [
+      { "text": "不再显示", "action": "hide_forever", "isPrimary": false },
+      { "text": "今天不显示", "action": "hide_today", "isPrimary": false },
+      { "text": "确认", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "no": {
+    "title": "Tjenestemelding",
+    "message": "Offentlig data API-tjeneste gjenopprettes.\n* Værmelding kan ikke fungere ordentlig",
+    "buttons": [
+      { "text": "Ikke vis igjen", "action": "hide_forever", "isPrimary": false },
+      { "text": "Ikke vis i dag", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "th": {
+    "title": "ประกาศการใช้งาน",
+    "message": "กำลังกู้คืนบริการ API ข้อมูลสาธารณะ\n* ฟีเจอร์พยากรณ์อากาศอาจไม่ทำงานอย่างราบรื่น",
+    "buttons": [
+      { "text": "ไม่ต้องแสดงอีก", "action": "hide_forever", "isPrimary": false },
+      { "text": "ไม่ต้องแสดงวันนี้", "action": "hide_today", "isPrimary": false },
+      { "text": "ตกลง", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "my": {
+    "title": "Notis Perkhidmatan",
+    "message": "Perkhidmatan API data awam sedang dipulihkan.\n* Ciri ramalan cuaca mungkin tidak berfungsi dengan baik",
+    "buttons": [
+      { "text": "Jangan tunjuk lagi", "action": "hide_forever", "isPrimary": false },
+      { "text": "Jangan tunjuk hari ini", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "id": {
+    "title": "Pemberitahuan Layanan",
+    "message": "Layanan API data publik sedang dipulihkan.\n* Fitur prakiraan cuaca mungkin tidak berfungsi dengan baik",
+    "buttons": [
+      { "text": "Jangan tampilkan lagi", "action": "hide_forever", "isPrimary": false },
+      { "text": "Jangan tampilkan hari ini", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "de": {
+    "title": "Servicehinweis",
+    "message": "Der öffentliche Daten-API-Dienst wird wiederhergestellt.\n* Die Wettervorhersagefunktion funktioniert möglicherweise nicht ordnungsgemäß",
+    "buttons": [
+      { "text": "Nicht mehr anzeigen", "action": "hide_forever", "isPrimary": false },
+      { "text": "Heute nicht mehr anzeigen", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  }
+}
