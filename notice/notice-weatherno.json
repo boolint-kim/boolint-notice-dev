@@ -1,0 +1,104 @@
+{
+  "hasMessage": {
+    "android": true,
+    "ios": false
+  },
+   "targetVersion": {
+    "android": "",
+    "ios": ""
+  },
+  "isBlocking": false,
+  "imageUrl": "",
+  "androidUrl": "",
+  "iosUrl": "",
+  "kr": {
+    "title": "이용안내.-디버그",
+    "message": "이용안내.",
+    "buttons": [
+      { "text": "더이상 보지 않기", "action": "hide_forever", "isPrimary": false },
+      { "text": "오늘 그만 보기", "action": "hide_today", "isPrimary": false },
+      { "text": "확인", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "en": {
+    "title": "Service Notice",
+    "message": "Service Notice",
+    "buttons": [
+      { "text": "Don't show again", "action": "hide_forever", "isPrimary": false },
+      { "text": "Don't show today", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "jp": {
+    "title": "ご利用案内",
+    "message": "ご利用案内",
+    "buttons": [
+      { "text": "今後表示しない", "action": "hide_forever", "isPrimary": false },
+      { "text": "今日は表示しない", "action": "hide_today", "isPrimary": false },
+      { "text": "確認", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "tw": {
+    "title": "使用須知",
+    "message": "使用須知",
+    "buttons": [
+      { "text": "不再顯示", "action": "hide_forever", "isPrimary": false },
+      { "text": "今天不顯示", "action": "hide_today", "isPrimary": false },
+      { "text": "確認", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "cn": {
+    "title": "使用须知",
+    "message": "使用须知",
+    "buttons": [
+      { "text": "不再显示", "action": "hide_forever", "isPrimary": false },
+      { "text": "今天不显示", "action": "hide_today", "isPrimary": false },
+      { "text": "确认", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "no": {
+    "title": "Tjenestemelding",
+    "message": "Tjenestemelding",
+    "buttons": [
+      { "text": "Ikke vis igjen", "action": "hide_forever", "isPrimary": false },
+      { "text": "Ikke vis i dag", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "th": {
+    "title": "ประกาศการใช้งาน",
+    "message": "ประกาศการใช้งาน",
+    "buttons": [
+      { "text": "ไม่ต้องแสดงอีก", "action": "hide_forever", "isPrimary": false },
+      { "text": "ไม่ต้องแสดงวันนี้", "action": "hide_today", "isPrimary": false },
+      { "text": "ตกลง", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "my": {
+    "title": "Notis Perkhidmatan",
+    "message": "Notis Perkhidmatan",
+    "buttons": [
+      { "text": "Jangan tunjuk lagi", "action": "hide_forever", "isPrimary": false },
+      { "text": "Jangan tunjuk hari ini", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "id": {
+    "title": "Pemberitahuan Layanan",
+    "message": "Pemberitahuan Layanan",
+    "buttons": [
+      { "text": "Jangan tampilkan lagi", "action": "hide_forever", "isPrimary": false },
+      { "text": "Jangan tampilkan hari ini", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "de": {
+    "title": "Servicehinweis",
+    "message": "Servicehinweis",
+    "buttons": [
+      { "text": "Nicht mehr anzeigen", "action": "hide_forever", "isPrimary": false },
+      { "text": "Heute nicht mehr anzeigen", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  }
+}
