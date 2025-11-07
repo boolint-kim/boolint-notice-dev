@@ -1,6 +1,6 @@
 {
   "hasMessage": {
-    "android": true,
+    "android": false,
     "ios": false
   },
    "targetVersion": {
