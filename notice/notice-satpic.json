@@ -1,6 +1,6 @@
 {
   "hasMessage": {
-    "android": true,
+    "android": false,
     "ios": false
   },
   "isBlocking": false,
@@ -9,7 +9,7 @@
   "iosUrl": "",
   "kr": {
     "title": "이용안내-디버그KR",
-    "message": "공공 데이터 API 서비스가 복구 중입니다.\n* 날씨예보 기능 이용이 원활하지 않습니다",
+    "message": "공공 데이터 API 서비스가 복구 중입니다.\n* 날씨예보, 태풍 기능 이용이 원활하지 않습니다",
     "buttons": [
       { "text": "더이상 보지 않기", "action": "hide_forever", "isPrimary": false },
       { "text": "오늘 그만 보기", "action": "hide_today", "isPrimary": false },
