@@ -3,9 +3,9 @@
   "_comment": "WeatherTw 전면광고 빈도 설정. 앱은 시작 시 1회 받아 캐시하고 다음 실행부터 적용한다. 값이 안전 범위를 벗어나면 앱이 무시하고 기본값(4 / 5~7 / 10분 / 3회)을 쓴다.",
   "interstitial": {
     "firstTrigger": 4,
-    "repeatMin": 5,
-    "repeatMax": 7,
+    "repeatMin": 6,
+    "repeatMax": 6,
     "minIntervalMin": 10,
-    "dailyCap": 3
+    "dailyCap": 999
   }
 }
