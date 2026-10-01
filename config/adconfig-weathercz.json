@@ -7,6 +7,6 @@
     "repeatMin": 2,
     "repeatMax": 3,
     "minIntervalMin": 10,
-    "dailyCap": 3
+    "dailyCap": 0
   }
 }
