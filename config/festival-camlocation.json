@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "useRemote": true,
+  "_comment": "CamLocation(전국CCTV지도) 축제 레이어 원격설정(Android+iOS 공용, docs/festival-layer.md · festival-collector DESIGN §8.3). enabled:false 면 지도의 축제 버튼을 숨기고 켜져 있던 레이어도 끈다(킬스위치). windowDays 는 '곧 시작' 창(앱이 3~60 으로 자른다), longDays 는 장기 배지 기준(30~180). listUrl 은 festivals.json 서빙 주소 이전용(https 아니면 무시). useRemote:false 면 전부 버리고 하드코딩 폴백(true / 14 / 60 / 워커 URL)으로 복귀. 앱은 시작 시 1회 받아 캐시하므로 반영은 다음 실행부터.",
+  "festival": {
+    "enabled": true,
+    "windowDays": 14,
+    "longDays": 60,
+    "listUrl": "https://cctv-files.boolint-kim.workers.dev/festivals.json"
+  }
+}
