@@ -1,9 +1,9 @@
 {
   "version": 1,
   "useRemote": true,
-  "_comment": "SatPic(날씨위성영상라이브) '지난 날씨 영상' 메뉴 = 유튜브 @sat_live 전용 재생목록(Android+iOS 공용, SatPic docs/youtube-video-menu-review.md 4절). enabled:false 면 메인 그리드의 메뉴 칸을 숨긴다(킬스위치). playlistId 는 재생목록 ID(PL 로 시작, 영숫자·-·_)만 — 앱이 https://www.youtube.com/playlist?list= 주소를 만들고, 형식이 아니면 숨긴다. useRemote:false 면 전부 버리고 하드코딩 기본값(숨김)으로 복귀. 앱은 시작 시 1회 받아 캐시하므로 반영은 다음 실행부터. 2026-10-26 신설 — 재생목록을 만들기 전이라 꺼 둔다. 켤 때: playlistId 를 넣고 enabled:true.",
+  "_comment": "SatPic(날씨위성영상라이브) '지난 날씨 영상' 메뉴 = 유튜브 @sat_live 전용 재생목록(Android+iOS 공용, SatPic docs/youtube-video-menu-review.md 4절). enabled:false 면 메인 그리드의 메뉴 칸을 숨긴다(킬스위치). playlistId 는 재생목록 ID(PL 로 시작, 영숫자·-·_)만 — 앱이 https://www.youtube.com/playlist?list= 주소를 만들고, 형식이 아니면 숨긴다. useRemote:false 면 전부 버리고 하드코딩 기본값(숨김)으로 복귀. 앱은 시작 시 1회 받아 캐시하므로 반영은 다음 실행부터. 2026-10-26 신설(꺼짐) → 2026-10-30 재생목록 \"지난 날씨 다시보기 | 태풍·비·눈 위성영상\" 생성, 켬. 켤 때: playlistId 를 넣고 enabled:true.",
   "youtubePlaylist": {
-    "enabled": false,
-    "playlistId": ""
+    "enabled": true,
+    "playlistId": "PLUzog0xDP-TM"
   }
 }
