@@ -10,6 +10,6 @@
     "dailyCap": 7
   },
   "banner": {
-    "large": true
+    "large": false
   }
 }
